@@ -13,4 +13,4 @@
 * MyBatis
 * Maven
 
-https://github.com/iamwumaixing/OA_module/raw/master/img/login.png
+https://github.com/iamwumaixing/OA_module/tree/master/img/login.png

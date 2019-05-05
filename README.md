@@ -13,5 +13,4 @@
 * MyBatis
 * Maven
 
-./img/login.png
 
